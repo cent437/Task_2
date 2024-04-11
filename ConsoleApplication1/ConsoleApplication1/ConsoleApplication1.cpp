@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 int main()
 {
-    int a1, b1=2, c1=3;
-    a1 = b1 + c1;
-    std::cout << a1;
+    int a2, b2=2, c2=3;
+    a2 = b2 + c2;
+    std::cout << a2;
 }
